@@ -1,26 +1,28 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# System Setup
+source:       .
+destination:  ./_site
+plugins:      ./_plugins
+layouts:      ./_layouts
+data_source:  ./_data
+port:         8000
+markdown:     redcarpet
+highlighter:  pygments
+permalink:    pretty
+#relative_permalinks: true
+baseurl:      /
+paginate:     1
 
 # Setup
-title:            Jacob Sayles
-tagline:          'A personal blog'
-description:      'This is my personal blog/porfolio/whatever for art projects and the like.'
-url:              http://jacobsayles.com
-baseurl:          /
-
+title:        Jacob Sayles
+tagline:      'A personal blog'
+description:  'This is my personal blog/porfolio/whatever for art projects and the like.'
+#url:          http://jacobsayles.com
+url:          http://jsayles.github.io
 author:
-  name:           'Jacob Sayles'
-  url:            https://twitter.com/jacobsayles
-
-paginate:         5
+   name:  'Jacob Sayles'
+   url:  https://twitter.com/jacobsayles
 
 # Custom vars
 version:          2.1.0
-
 github:
-  repo:           https://github.com/jsayles
+   repo:           https://github.com/jsayles
