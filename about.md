@@ -3,28 +3,27 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+<p>
+<a href="{{ site.baseurl }}public/jacob_sayles.jpg"><img src="{{ site.baseurl }}public/jacob_sayles.jpg" width="100px"></a>
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Bio
+Jacob Sayles started Office Nomads in Seattle in 2007 with business partner Susan Dorsch. 
+Office Nomads is a coworking community dedicated to cultivating a dynamic, creative and
+collaborative environment for Seattle's nomadic workforce.  In 2009 he cofounded
+Coworking Seattle, now The Seattle Collaborative Space Alliance, which explores the
+wider coworking movement in a local setting. In 2010 he gave the opening speech at
+Coworking Europe, the first international coworking conference.  In early 2012 he founded
+Open Coworking, a non-profit dedicated to promoting and facilitating greater collaboration 
+between coworking spaces around the world by supporting projects that demonstrate and 
+emphasize the core coworking values of collaboration, openness, community, accessibility, 
+and sustainability.  
 
-There are currently two themes built on Poole:
+Jacob loves nothing more than acting as a coworking ambassador, both internationally and 
+locally. It allows him to combine his love of travel with his passion for coworking. He
+has visited spaces all over the world, forging connections and sharing experiences with 
+each coworking community.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## This Site
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/)
