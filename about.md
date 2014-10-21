@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 <p>
@@ -24,7 +24,16 @@ locally. It allows him to combine his love of travel with his passion for cowork
 has visited spaces all over the world, forging connections and sharing experiences with 
 each coworking community.
 
-## This Site
+## Find Me
+<ul>
+<li><a class="sidebar-nav-item" href="{{ site.facebook_url }}">Facebook</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.linkedin_url }}">Linked-in</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.twitter_url }}">Twitter</a></li>
+<li><a class="sidebar-nav-item" href="{{ site.github_url }}">GitHub</a></li>
+<li>jsayles [at] gmail [dot] com</li>
+</ul>
+
+## About This Site
 
 This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/)
 and served on [GitHub](http://github.com).

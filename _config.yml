@@ -11,17 +11,15 @@ permalink:    pretty
 baseurl:      /
 paginate:     1
 
-# Setup
+# Site Details
 title:        Jacob Sayles
-tagline:      'A personal blog'
-description:  'This is my personal blog/porfolio/whatever for art projects and such.'
-#url:          http://jacobsayles.com
-url:          http://jsayles.github.io
-author:
-   name:      Jacob Sayles
-   email:     jsayles@gmail.com
+tagline:      'A personal page'
+description:  'This is my personal record for art, projects, and other things I have had a hand in creating.'
 
 # Custom vars
 version:       1.0.0
+facebook_url:  https://facebook.com/jsayles
+linkedin_url:  https://linkedin.com/pub/jacob-sayles
 github_url:    https://github.com/jsayles
 twitter_url:   https://twitter.com/jacobsayles
+email:     jsayles@gmail.com

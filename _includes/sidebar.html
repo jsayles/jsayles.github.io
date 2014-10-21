@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <!--<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>-->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -25,10 +25,19 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      </ul>
 
-      <a class="sidebar-nav-item" href="{{ site.twitter_url }}">Twitter</a>
-      <a class="sidebar-nav-item" href="{{ site.github_url }}">GitHub</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Posts</a>
+      <ul>
+      {% assign post_list = site.posts %}
+      {% for node in post_list %}
+        {% if node.title != null %}
+          {% if node.layout == "post" %}
+            <li><a class="sidebar-nav-item" href="{{ node.url }}">{{ node.title }}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </ul>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
