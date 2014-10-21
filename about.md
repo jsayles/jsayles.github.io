@@ -4,7 +4,7 @@ title: About
 ---
 
 <p>
-<a href="{{ site.baseurl }}public/jacob_sayles.jpg"><img src="{{ site.baseurl }}public/jacob_sayles.jpg" width="100px"></a>
+<a href="{{ site.baseurl }}public/jacob_sayles.jpg"><img src="{{ site.baseurl }}public/jacob_sayles.jpg" width="200px"></a>
 </p>
 
 ## Bio
@@ -26,4 +26,5 @@ each coworking community.
 
 ## This Site
 
-This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/).
+This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/)
+and served on [GitHub](http://github.com).

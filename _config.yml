@@ -8,21 +8,20 @@ port:         8000
 markdown:     redcarpet
 highlighter:  pygments
 permalink:    pretty
-#relative_permalinks: true
 baseurl:      /
 paginate:     1
 
 # Setup
 title:        Jacob Sayles
 tagline:      'A personal blog'
-description:  'This is my personal blog/porfolio/whatever for art projects and the like.'
+description:  'This is my personal blog/porfolio/whatever for art projects and such.'
 #url:          http://jacobsayles.com
 url:          http://jsayles.github.io
 author:
-   name:  'Jacob Sayles'
-   url:  https://twitter.com/jacobsayles
+   name:      Jacob Sayles
+   email:     jsayles@gmail.com
 
 # Custom vars
-version:          2.1.0
-github:
-   repo:           https://github.com/jsayles
+version:       1.0.0
+github_url:    https://github.com/jsayles
+twitter_url:   https://twitter.com/jacobsayles
