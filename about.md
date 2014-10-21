@@ -26,4 +26,4 @@ each coworking community.
 
 ## This Site
 
-This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/)
+This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/).
