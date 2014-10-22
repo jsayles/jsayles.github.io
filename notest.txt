@@ -1,0 +1,43 @@
+TODO
+----
+
+Categories: Projects, Organizations
+Tags: Hardware, Software, Organizations
+Remove Address on Resume
+
+
+
+Things to add
+-------------
+
+Resume.pdf
+
+Projects
+--------
+MayPi: 2014-08-29
+
+RedVic: 2014-07-01
+	Listed as a project because Katie and I were grunt labor rather then founders.  We were on the advanced team that moved in to the hotel the day the keys were handed over and moved out two months later just as residents and guests were moving in.  
+
+Light Bulb - 2013-12-02
+
+Nadine
+
+BirdBox 1 - Arduino, short lived
+
+BirdBox 2 - SmashPutt, Seattle Maker Faire 2013
+
+Bird Box 3 - Greendrinks
+
+Bird Box 4 - Grocers Strike, Seattle Maker Faire 2014
+
+Philometer - 2014-05-30
+  SEAF
+  Proposal
+
+
+Organizations
+-------------
+Office Nomads - 2007-11-01
+Open Coworking
+Seattle Collaborative Space Alliance
