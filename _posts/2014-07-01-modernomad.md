@@ -1,19 +1,14 @@
 ---
 layout: post
-title: Title
-tags: [art, hardware, organization, performance, software ]
-published: False
+title: Modernomad
+tags: [software]
+collaborators: [jessy]
+links:
+  Embassy Network: https://embassynetwork.com
+  GitHub Repository: https://github.com/jessykate/modernomad
+images:
+  - 2014-07-01-modernomad1.png
 ---
+Modernomad is guest, event and community management software for coliving houses and other experimental living arrangements focused on openness, collaboration and participation.  
 
-#### Description:
-blah blah blah
-
-#### Links
-<ul>
-	<li><a href="http://www.one.com">Link One</a></li>
-	<li><a href="http://two.org">Link Two</a></li>
-</ul>
-
-#### Images:
-<img class="gallery" src="/public/2014-05-30-philometer1.jpg"/>
-<img class="gallery" src="/public/2014-05-30-philometer2.jpg"/>
+This is the open source platform behind The Embassy Network, built on python/Django.  Jessy is the primary developer and I've been working with her to make it more robust, scalable, and multi-tenant.  

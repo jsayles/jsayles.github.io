@@ -13,30 +13,39 @@ layout: default
 	</span>
 
 	{{ content }}
+
+	{% if page.images %}
+		<div class="images">
+			<h4>Images:</h4>
+			{% for image in page.images %}
+				<a href="/public/{{ image }}"><img class="gallery" src="/public/{{ image }}"/></a>
+			{% endfor %}
+		</div>
+	{% endif %}
+
+	{% if page.links %}
+		<div class="links">
+			<h4>Links:</h4>
+			<ul>
+			{% for link in page.links %}
+				<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	{% endif %}
+
+	{% if page.collaborators %}
+		<div class="collaborators">
+			<h4>Collaborators:</h4>
+			<ul>
+			{% for c in page.collaborators %}
+				{% assign collaborator = site.collaborators[c] %}
+				<li><a href="{{collaborator.url}}">{{ collaborator.full_name }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
+	{% endif %}
 </div>
-
-{% if page.links %}
-	<div class="links">
-		<h4>Links</h4>
-		<ul>
-		{% for link in page.links %}
-			<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
-		{% endfor %}
-		</ul>
-	</div>
-{% endif %}
-
-{% if page.collaborators %}
-	<div class="collaborators">
-		<h4>Collaborators</h4>
-		<ul>
-		{% for c in page.collaborators %}
-			{% assign collaborator = site.collaborators[c] %}
-			<li><a href="{{collaborator.url}}">{{ collaborator.full_name }}</a></li>
-		{% endfor %}
-		</ul>
-	</div>
-{% endif %}
 
 <!--
 <div class="related">
