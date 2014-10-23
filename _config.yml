@@ -13,13 +13,28 @@ paginate:     4
 
 # Site Details
 title:        Jacob Sayles
-tagline:      'A personal record'
+tagline:      'A Personal Record'
 description:  'This is my personal record for art, projects, and other things I have had a hand in creating.'
 
 # Custom vars
-version:       1.0.0
+email:         jsayles@gmail.com
 facebook_url:  https://facebook.com/jsayles
 linkedin_url:  https://linkedin.com/pub/jacob-sayles
 github_url:    https://github.com/jsayles
 twitter_url:   https://twitter.com/jacobsayles
-email:     jsayles@gmail.com
+
+# People I worked with
+collaborators:
+   andrew:
+      full_name: Andrew Cole
+      url:       http://aocole.net
+   katie:
+      full_name: Katie Davis
+      url:       http://www.kanawhadesignstudio.com
+   jessy:
+      full_name: Jessy Kate Schingler
+      url:       http://jessykate.com
+   susan:
+      full_name: Susan Dorsch
+      url:       http://www.officenomads.com
+      
