@@ -44,8 +44,6 @@ Chicken Coup
 
 Nest Plate
 
-Arm Laser
-
 Speaking Engagements
 -----
 Coworking Europe
@@ -55,5 +53,5 @@ Organizations
 -------------
 Office Nomads - 2007-11-01
 Open Coworking
-Seattle Collaborative Space Alliance
+Seattle Collaborative Space Alliance - 2009-12-09
 Coworking Wiki
