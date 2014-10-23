@@ -10,8 +10,6 @@ Remove Address on Resume
 Things to add
 -------------
 
-Resume.pdf
-
 Projects
 --------
 MayPi: 2014-08-29
@@ -19,7 +17,10 @@ MayPi: 2014-08-29
 RedVic: 2014-07-01
 	Listed as a project because Katie and I were grunt labor rather then founders.  We were on the advanced team that moved in to the hotel the day the keys were handed over and moved out two months later just as residents and guests were moving in.  
 
+Modernomad: 2014-07-01
+
 Light Bulb - 2013-12-02
+ - Need photos!
 
 Nadine
 
@@ -36,8 +37,14 @@ Philometer - 2014-05-30
   Proposal
 
 
+Speaking Engagements
+-----
+Coworking Europe
+
+
 Organizations
 -------------
 Office Nomads - 2007-11-01
 Open Coworking
 Seattle Collaborative Space Alliance
+Coworking Wiki
