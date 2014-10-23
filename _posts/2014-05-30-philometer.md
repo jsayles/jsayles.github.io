@@ -2,7 +2,6 @@
 layout: post
 title: Philometer
 categories: [art, hardware, software]
-published: False
 ---
 
 #### Description:
