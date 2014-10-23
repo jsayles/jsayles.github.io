@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philometer
-categories: [art, hardware, software]
+tags: [art, hardware, software]
 ---
 
 #### Description:

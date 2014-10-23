@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aha!  A Bright Idea
-categories: [art, hardware]
+tags: [art, hardware]
 ---
 
 #### Description:

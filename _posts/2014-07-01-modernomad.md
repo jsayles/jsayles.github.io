@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title
-categories: [art, hardware, organization, performance, software ]
+tags: [art, hardware, organization, performance, software ]
 published: False
 ---
 

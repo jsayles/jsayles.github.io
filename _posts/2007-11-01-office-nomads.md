@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Office Nomads
-categories: [organization]
+tags: [organization]
+published: False
 ---
 
 #### Description:

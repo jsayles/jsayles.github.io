@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neon Lights
-categories: [art, hardware]
+tags: [art, hardware]
 ---
 
 #### Description:
