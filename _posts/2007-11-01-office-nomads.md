@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Office Nomads
-tags: [organization]
-published: False
+tags: [foundation]
 links:
   Office Nomads: http://officenomads.com
   Coworking.org: http://coworking.org
