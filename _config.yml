@@ -9,7 +9,7 @@ markdown:     redcarpet
 highlighter:  pygments
 permalink:    pretty
 baseurl:      /
-paginate:     4
+paginate:     10
 
 # Site Details
 title:        Jacob Sayles
