@@ -23,6 +23,21 @@ layout: default
 		</div>
 	{% endif %}
 
+	{% if page.see-also %}
+		<div class="see-also">
+			<h4>See Also:</h4>
+			<ul>
+			{% for post_title in page.see-also %}
+				{% for node in site.posts %}
+					{% if node.title == post_title %}
+						<li><a href="{{ node.url }}">{{ node.title }}</a></li>
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+			</ul>
+		</div>
+	{% endif %}
+	
 	{% if page.links %}
 		<div class="links">
 			<h4>Links:</h4>
