@@ -15,9 +15,6 @@ Projects
 RedVic: 2014-07-01
 	  More Pictures
 
-Light Bulb - 2013-12-02
- - Need photos!
-
 Nadine
 
 BirdBox 1 - Arduino, short lived
@@ -30,7 +27,7 @@ Bird Box 4 - Grocers Strike, Seattle Maker Faire 2014
 
 Philometer - 2014-05-30
   SEAF
-  Proposal
+  Proposal - 2014-05-09
 
 The Red Phones!
 
@@ -51,3 +48,4 @@ Office Nomads - 2007-11-01
 Open Coworking
 Seattle Collaborative Space Alliance - 2009-12-09
 Coworking Wiki
+The New Philographers
