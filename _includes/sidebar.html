@@ -30,7 +30,7 @@
 
 			<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Posts</a>
 			<ul>
-			{% for node in site.posts %}
+			{% for node in site.posts limit:5 %}
 				{% if node.title != null %}
 					{% if node.layout == "post" %}
 						<li><a class="sidebar-nav-item" href="{{ node.url }}">{{ node.title }}</a></li>

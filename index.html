@@ -12,9 +12,23 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+	<span class="post-date">{{ post.date | date_to_string }}
+		{% if post.tags %} - 
+			{% for tag in post.tags %}
+				<dd>{{ tag }}</dd>
+			{% endfor %}
+		{% endif %}
+	</span>
 
-    {{ post.content }}
+	{{ post.excerpt }}
+
+	{% if post.images %}
+		{% assign image = post.images[0] %}
+		<div class="images">
+			<a href="/public/{{ image }}"><img class="gallery" src="/public/{{ image }}"/></a>
+		</div>
+	{% endif %}
+
   </div>
   {% endfor %}
 </div>
