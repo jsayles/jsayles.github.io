@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Page Title
-tags: [art, hardware, foundation, performance, software ]
+tags: [art, hardware, foundation, performance, software]
+collaborators: [andrew, jessy, katie, susan]
 links:
   Link One Text: https://link1.com
   Link Two Text: https://link2.org
