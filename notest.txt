@@ -17,20 +17,14 @@ RedVic: 2014-07-01
 
 Nadine
 
-BirdBox 1 - Arduino, short lived
-
 BirdBox 2 - SmashPutt, Seattle Maker Faire 2013
-
 Bird Box 3 - Greendrinks
-
 Bird Box 4 - Grocers Strike, Seattle Maker Faire 2014
 
-Philometer - 2014-05-01
-  SEAF - 2014-05-30
-  Proposal - 2014-05-10
+SEAF - 2014-05-30
+Proposal - 2014-05-10
 
 The Red Phones!
-
 Beer Fund
 
 Chicken Coup
