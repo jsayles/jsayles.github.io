@@ -1,0 +1,19 @@
+---
+layout: default
+title: Tags
+---
+
+<h1>Projects by Category</h1>
+
+{% for t in site.tags  %}
+	{% assign tag = t[0] %}
+	<div>
+		<h2 style="text-transform: capitalize;">{{ tag | title }} Projects</h2>
+		<ul>
+			{% for post in site.tags.[tag] limit:5 %}
+				<li><a href="{{ post.url }}">{{ post.date | date_to_string }} - {{ post.title }}</a>
+			{% endfor %}
+			<li>> <a href="/tags/{{tag}}">List All</a> <</li>
+		</ul>
+	</div>
+{% endfor %}

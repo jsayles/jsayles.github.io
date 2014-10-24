@@ -2,6 +2,18 @@ img.gallery {
 	width: 100%;
 }
 
+.thumbnails {
+	overflow-x: scroll;
+	text-align: center;
+	white-space: nowrap;
+}
+img.thumbnail {
+	height: 180px;
+	display: inline-block;
+	margin-top: 20px;
+	padding-left: 10px;
+}
+
 dd { display: inline-block; margin: 0; }
 dd:after { content:","; }
 dd:last-child:after { content: ""; }

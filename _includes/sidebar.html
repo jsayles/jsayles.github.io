@@ -28,15 +28,12 @@
 
 			<a class="sidebar-nav-item" href="/public/Jacob_Sayles_Resume.pdf">Resume</a>
 
-			<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Posts</a>
+			<a class="sidebar-nav-item" href="/tags/">Projects</a>
 			<ul>
-			{% for node in site.posts limit:5 %}
-				{% if node.title != null %}
-					{% if node.layout == "post" %}
-						<li><a class="sidebar-nav-item" href="{{ node.url }}">{{ node.title }}</a></li>
-					{% endif %}
-				{% endif %}
-			{% endfor %}
+				{% for t in site.tags  %}
+					{% assign tag = t[0] %}
+					<li><a class="sidebar-nav-item" href="/tags/{{ tag }}/">{{ tag }}</a></li>
+				{% endfor %}
 			</ul>
 		</nav>
 
