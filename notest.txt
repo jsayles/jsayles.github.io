@@ -1,13 +1,11 @@
 TODO
 ----
-
-Categories: Projects, Organizations
-Tags: Hardware, Software, Organizations
 Remove Address on Resume
 
+Collaborator Links:
+  - If there isn't a collaborator just list the person w/o a link
 
-
-Things to add
+Projects to add
 -------------
 
 Projects
