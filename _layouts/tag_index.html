@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1 style="text-transform: capitalize;">{{ page.tag | title }} Projects</h1>
-{{ content }}
+<p>{{ content }}</p>
 
 <span class="thumbnails">
 	{% for post in site.tags.[page.tag] limit: 3 %}
