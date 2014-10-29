@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smash Putt Bird Box
+title: Bird Box - Smash Putt
 name: 2013-02-27-birdbox-smashputt
 
 tags: 
