@@ -2,9 +2,7 @@
 layout: post
 title: Neon Lights
 name: 1997-12-31-neon
-
 tags: [art, hardware]
-
 images:
   - 1997-12-31-neon1.jpg
 ---
