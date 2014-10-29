@@ -21,4 +21,4 @@ see-also:
  - 2014-05-01-philometer
  - 2014-05-15-new-philographers
 ---
-Katie and I took The Philometer to an art festival as the first public performance for The New Philographers.  We hooked up all the sensors to folks and asked them questions ranging from boring to stimulating and sold postcards with their personal sensory response.
+The New Philographers, our performance group, took The Philometer to an art festival.  As our first public performance, we hooked people up to our sensor array. We asked them questions ranging from boring to stimulating and created art pieces graphically representing their personal sensory response.
