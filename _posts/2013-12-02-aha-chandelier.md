@@ -18,4 +18,4 @@ images:
   - 2013-12-02-aha-chandelier4.jpg
   - 2013-12-02-aha-chandelier5.jpg
 ---
-Katie and I entered the Mighty Tieton Chandelier Festival, and we won!  We created a lightbulb that turns on when you walk under it.  The primary material used was lampshade paper that was cut with a laser cutter.
+Katie and I entered the Mighty Tieton Chandelier Festival, and we won!  We created a light bulb that turns on when you walk under it.  The primary material used was lampshade paper that was cut with a laser cutter.
