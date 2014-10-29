@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Philographers First Performance
+title: New Philographers - First Performance
 name: 2014-05-31-philometer-art-festival
 
 tags: 
