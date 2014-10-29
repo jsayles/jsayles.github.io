@@ -1,13 +1,23 @@
 ---
 layout: post
 title: Modernomad
-tags: [software]
-collaborators: [jessy]
+name: 2014-07-01-modernomad
+
+tags: 
+  - software
+
+collaborators:
+  - jessy
+
 links:
-  Embassy Network: https://embassynetwork.com
-  GitHub Repository: https://github.com/jessykate/modernomad
+  - Embassy Network: https://embassynetwork.com
+  - GitHub Repository: https://github.com/jessykate/modernomad
+
 images:
   - 2014-07-01-modernomad1.png
+
+see-also:
+ - 2014-07-01-redvic
 ---
 Modernomad is guest, event and community management software for coliving houses and other experimental living arrangements focused on openness, collaboration and participation.  
 

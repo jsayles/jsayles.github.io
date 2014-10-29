@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Aha!  A Bright Idea
+name: 2013-12-02-aha-chandelier
+
 tags: [art, hardware]
+
 collaborators: [katie]
+
 links:
-  Mighty Tieton: http://mightytieton.com
-  Contest Entry (<i>PDF</i>): /public/ChandelierProposal_Tieton_KanawhaDesignStudio.pdf
+  - Mighty Tieton: http://mightytieton.com
+  - Contest Entry (<i>PDF</i>): /public/ChandelierProposal_Tieton_KanawhaDesignStudio.pdf
+
 images:
   - 2013-12-02-aha-chandelier1.jpg
   - 2013-12-02-aha-chandelier2.jpg

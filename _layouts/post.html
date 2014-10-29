@@ -27,9 +27,9 @@ layout: default
 		<div class="see-also">
 			<h4>See Also:</h4>
 			<ul>
-			{% for post_title in page.see-also %}
+			{% for post_code in page.see-also %}
 				{% for node in site.posts %}
-					{% if node.title == post_title %}
+					{% if node.name == post_code %}
 						<li><a href="{{ node.url }}">{{ node.title }}</a></li>
 					{% endif %}
 				{% endfor %}
@@ -42,8 +42,10 @@ layout: default
 		<div class="links">
 			<h4>Links:</h4>
 			<ul>
-			{% for link in page.links %}
-				<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+			{% for links in page.links %}
+				{% for link in links %}
+					<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+				{% endfor %}
 			{% endfor %}
 			</ul>
 		</div>

@@ -1,12 +1,21 @@
 ---
 layout: post
 title: Philometer
-tags: [art, hardware, software]
-collaborators: katie
+name: 2014-05-01-philometer
+
+tags: 
+  - art
+  - hardware
+  - software
+
+collaborators: 
+  - katie
+
 links:
-  GitHub Repository: https://github.com/jsayles/philometer
-  Rhino 3-D: http://www.rhino3d.com
-  Rhino Python: http://wiki.mcneel.com/developer/python
+  - GitHub Repository: https://github.com/jsayles/philometer
+  - Rhino 3-D: http://www.rhino3d.com
+  - Rhino Python: http://wiki.mcneel.com/developer/python
+
 images:
   - 2014-05-01-philometer1.jpg
   - 2014-05-01-philometer2.jpg
