@@ -6,7 +6,7 @@ name: page-name
 tags: 
   - art
   - hardware
-  - foundation
+  - community
   - performance
   - software
 

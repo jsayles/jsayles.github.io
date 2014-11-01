@@ -3,7 +3,7 @@ layout: post
 title: Office Nomads
 name: 2007-11-01-office-nomads
 tags: 
-  - foundation
+  - community
 
 links:
   - Office Nomads: http://officenomads.com

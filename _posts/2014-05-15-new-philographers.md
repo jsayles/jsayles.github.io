@@ -5,7 +5,7 @@ name: 2014-05-15-new-philographers
 
 tags: 
   - art
-  - foundation
+  - community
 
 collaborators: 
   - katie
