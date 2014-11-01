@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philometer
+title: The Philometer
 name: 2014-05-01-philometer
 
 tags: 

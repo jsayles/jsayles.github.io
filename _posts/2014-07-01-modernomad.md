@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modernomad
+title: Modernomad Reservation System
 name: 2014-07-01-modernomad
 
 tags: 
