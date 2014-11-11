@@ -1,42 +1,18 @@
 TODO
 ----
-Remove Address on Resume
-
 Collaborator Links:
   - If there isn't a collaborator just list the person w/o a link
 
-Projects to add
+Tags link to tag_index page
+
+To add
 -------------
-
-Projects
---------
-RedVic: 2014-07-01
-	  More Pictures
-
-Nadine
-
-Seattle Maker Faire 2014
-
 Proposal - 2014-05-10
-
 The Red Phones!
 Beer Fund
-
 Chicken Coup
-
 Nest Plate
-
 Taxi
-
-Speaking Engagements
------
 Coworking Europe
-
-
-Organizations
--------------
-Office Nomads - 2007-11-01
 Open Coworking
-Seattle Collaborative Space Alliance - 2009-12-09
 Coworking Wiki
-The New Philographers
