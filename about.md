@@ -24,13 +24,31 @@ locally. It allows him to combine his love of travel with his passion for cowork
 has visited spaces all over the world, forging connections and sharing experiences with 
 each coworking community.
 
-## Find Me
+## Contact Me
+<div style="width: 440px;">
+  Like what you see?  Want to propose a project or collaboration idea?  I'd love to hear from you!
+</div>
+<form action="https://getsimpleform.com/messages?form_api_token=a5acebf6aafcb84c7141f5772d044e7f" method="post">
+  <input type='hidden' name='redirect_to' value='http://jacobsayles.com' />
+  <strong>Name:</strong> 
+  <input type='name' size='54' name='name' />
+  <br/>
+  
+  <strong>Email:</strong> 
+  <input type='email' size='54' name='email' />
+  <br/>
+
+  <strong>Message:</strong><br/>
+  <textarea name="message" rows="20" cols="60"></textarea><br/>
+  <input type='submit' value='Send Message' />
+</form>
+
+## Find Me Out There!
 <ul>
 <li><a class="sidebar-nav-item" href="{{ site.facebook_url }}">Facebook</a></li>
 <li><a class="sidebar-nav-item" href="{{ site.linkedin_url }}">Linked-in</a></li>
 <li><a class="sidebar-nav-item" href="{{ site.twitter_url }}">Twitter</a></li>
 <li><a class="sidebar-nav-item" href="{{ site.github_url }}">GitHub</a></li>
-<li>jsayles [at] gmail [dot] com</li>
 </ul>
 
 ## About This Site
