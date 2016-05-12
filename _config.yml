@@ -5,7 +5,6 @@ plugins:      ./_plugins
 layouts:      ./_layouts
 data_source:  ./_data
 port:         8000
-markdown:     redcarpet
 highlighter:  pygments
 permalink:    pretty
 baseurl:      /
@@ -37,4 +36,3 @@ collaborators:
    susan:
       full_name: Susan Dorsch
       url:       http://www.officenomads.com
-      
