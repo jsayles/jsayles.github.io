@@ -1,14 +1,17 @@
 # System Setup
 source:       .
 destination:  ./_site
-plugins:      ./_plugins
-layouts:      ./_layouts
-data_source:  ./_data
+plugins_dir:  ./_plugins
+layouts_dir:  ./_layouts
+data_dir:     ./_data
 port:         8000
 highlighter:  rouge
 permalink:    pretty
 baseurl:      /
 paginate:     10
+
+# Gems
+gems: [jekyll-paginate]
 
 # Site Details
 title:        Jacob Sayles
