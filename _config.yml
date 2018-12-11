@@ -11,7 +11,7 @@ baseurl:      /
 paginate:     10
 
 # Gems
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Site Details
 title:        Jacob Sayles

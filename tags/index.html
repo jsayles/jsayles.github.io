@@ -10,7 +10,7 @@ title: Tags
 	<div>
 		<h2 style="text-transform: capitalize;">{{ tag | title }} Projects</h2>
 		<ul>
-			{% for post in site.tags.[tag] limit:5 %}
+			{% for post in site.tags[tag] limit:5 %}
 				<li>{{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a>
 			{% endfor %}
 			<li>[ <a href="/tags/{{tag}}">List All</a> ]</li>
