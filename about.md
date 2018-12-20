@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p>
-<a href="{{ site.baseurl }}public/jacob_sayles.jpg"><img src="{{ site.baseurl }}public/jacob_sayles.jpg" width="200px"></a>
+<a href="{{ 'public/jacob_sayles.jpg' | relative_url }}"><img src="{{ 'public/jacob_sayles.jpg' | relative_url }}" width="200px"></a>
 </p>
 
 ## Bio
