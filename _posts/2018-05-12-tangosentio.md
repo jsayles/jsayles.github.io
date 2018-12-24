@@ -18,7 +18,7 @@ links:
 
 ---
 
-Tango Sentio is a 3D Scanner Glove.  The name is derived from Latin tango:
+Tango Sentio is a 3D scanning glove.  The name is derived from Latin tango:
 touching, and sentio: seeing.  No, I don't speak Latin but I can google until
 I find something that sounds interesting enough.
 
