@@ -8,21 +8,20 @@ title: About Me
 </p>
 
 ## Bio
-Jacob Sayles started Office Nomads in Seattle in 2007 with business partner Susan Dorsch. 
-Office Nomads is a coworking community dedicated to cultivating a dynamic, creative and
-collaborative environment for Seattle's nomadic workforce.  In 2009 he cofounded
-Coworking Seattle, now The Seattle Collaborative Space Alliance, which explores the
-wider coworking movement in a local setting. In 2010 he gave the opening speech at
-Coworking Europe, the first international coworking conference.  In early 2012 he founded
-Open Coworking, a non-profit dedicated to promoting and facilitating greater collaboration 
-between coworking spaces around the world by supporting projects that demonstrate and 
-emphasize the core coworking values of collaboration, openness, community, accessibility, 
-and sustainability.  
+I am a creative and entrepreneurial technologist with over 20 years of
+experience and a history of innovative ideas, well executed projects,
+and management of diverse teams.  In 2007, I recognized the growing trend of
+independent and remote workers and opened Office Nomads, the first coworking
+space in Seattle, WA.  To support this business and others like it, I wrote
+Nadine, the first open source coworking platform, and founded Open Coworking,
+a non-profit dedicated to the Coworking Movement.  In 2016 I relocated to
+Vancouver, Canada to take on the role of Director of Technology for 312 Main,
+a 105,000 sf coworking community in the old Downtown Vancouver Police building.
 
-Jacob loves nothing more than acting as a coworking ambassador, both internationally and 
-locally. It allows him to combine his love of travel with his passion for coworking. He
-has visited spaces all over the world, forging connections and sharing experiences with 
-each coworking community.
+I am currently a partner at [Kanawha Design Studio](https://kanawha.design),
+a consulting firm that supports small, medium, and large collaborative spaces
+with business planning, operations, community development, IT infrastructure,
+and the many uses of technology to support their memberships and communities.
 
 ## Contact Me
 <div style="width: 440px;">
@@ -30,11 +29,11 @@ each coworking community.
 </div>
 <form action="https://getsimpleform.com/messages?form_api_token=a5acebf6aafcb84c7141f5772d044e7f" method="post">
   <input type='hidden' name='redirect_to' value='http://jacobsayles.com' />
-  <strong>Name:</strong> 
+  <strong>Name:</strong>
   <input type='name' size='54' name='name' />
   <br/>
-  
-  <strong>Email:</strong> 
+
+  <strong>Email:</strong>
   <input type='email' size='54' name='email' />
   <br/>
 
