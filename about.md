@@ -28,7 +28,7 @@ and the many uses of technology to support their memberships and communities.
   Like what you see?  Want to propose a project or collaboration idea?  I'd love to hear from you!
 </div>
 <form action="https://getsimpleform.com/messages?form_api_token=a5acebf6aafcb84c7141f5772d044e7f" method="post">
-  <input type='hidden' name='redirect_to' value='http://jacobsayles.com' />
+  <input type='hidden' name='redirect_to' value='https://jacobsayles.com' />
   <strong>Name:</strong>
   <input type='name' size='54' name='name' />
   <br/>
@@ -52,5 +52,5 @@ and the many uses of technology to support their memberships and communities.
 
 ## About This Site
 
-This site was built using [Jekyll](http://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/)
-and served on [GitHub](http://github.com).
+This site was built using [Jekyll](https://jekyllrb.com) and [Hyde](http://hyde.getpoole.com/)
+and served on [GitHub](https://github.com).
