@@ -19,9 +19,7 @@ gem "minima"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem 'jekyll-paginate'
   gem "jekyll-feed"
+  gem "webrick", "~> 1.7"
 end
-
-gem 'jekyll-paginate'
-
-gem "webrick", "~> 1.7"
