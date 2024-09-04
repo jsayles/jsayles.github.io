@@ -84,7 +84,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-paginate
   minima
-  webrick
 
 BUNDLED WITH
    2.2.31
