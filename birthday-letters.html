@@ -8,16 +8,18 @@ sitemap: false
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Write Me a Birthday Letter</title>
+  <title>Write Me a Letter</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lato:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
     :root {
-      --color-bg: #fdf8f0;
-      --color-text: #2c2c2c;
-      --color-accent: #8b6f5e;
-      --color-muted: #999;
-      --color-border: #e0d5c8;
+      --color-page-bg: #ffffff;
+      --color-body-bg: #d6d6d6;
+      --color-text: #1a1a1a;
+      --color-accent: #444444;
+      --color-muted: #777;
+      --color-border: #cccccc;
+      --shadow: 0 4px 24px rgba(0, 0, 0, 0.18), 0 1px 4px rgba(0, 0, 0, 0.10);
     }
 
     * {
@@ -27,10 +29,10 @@ sitemap: false
     }
 
     body {
-      background-color: var(--color-bg);
+      background-color: var(--color-body-bg);
       color: var(--color-text);
-      font-family: 'Lato', sans-serif;
-      font-weight: 300;
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-weight: 400;
       line-height: 1.85;
       min-height: 100vh;
       display: flex;
@@ -40,21 +42,24 @@ sitemap: false
     }
 
     .page {
-      max-width: 580px;
+      max-width: 600px;
       width: 100%;
+      background-color: var(--color-page-bg);
+      padding: 4rem 4.5rem;
+      box-shadow: var(--shadow);
     }
 
     h1 {
       font-family: 'Playfair Display', serif;
-      font-size: 2.6rem;
-      font-weight: 400;
+      font-size: 2.4rem;
+      font-weight: 700;
       line-height: 1.2;
       margin-bottom: 2rem;
       color: var(--color-text);
     }
 
     .intro {
-      font-size: 1.05rem;
+      font-size: 1rem;
       margin-bottom: 1.2rem;
     }
 
@@ -64,9 +69,8 @@ sitemap: false
 
     h2 {
       font-family: 'Playfair Display', serif;
-      font-size: 1rem;
+      font-size: 0.95rem;
       font-weight: 400;
-      font-style: italic;
       color: var(--color-accent);
       margin-bottom: 0.9rem;
       letter-spacing: 0.03em;
@@ -80,7 +84,7 @@ sitemap: false
     ul li {
       padding: 0.35rem 0 0.35rem 1.4rem;
       position: relative;
-      font-size: 1.05rem;
+      font-size: 1rem;
     }
 
     ul li::before {
@@ -97,30 +101,32 @@ sitemap: false
     }
 
     .closing {
-      font-size: 0.95rem;
+      font-size: 0.9rem;
       color: var(--color-muted);
-      font-style: italic;
       margin-top: 2.5rem;
     }
 
     a {
-      color: var(--color-accent);
+      color: var(--color-text);
       text-decoration: none;
       border-bottom: 1px solid var(--color-border);
       transition: border-color 0.15s;
     }
 
     a:hover {
-      border-bottom-color: var(--color-accent);
+      border-bottom-color: var(--color-text);
     }
 
-    @media (max-width: 480px) {
+    @media (max-width: 640px) {
+      .page {
+        padding: 2.5rem 2rem;
+      }
       h1 {
-        font-size: 2rem;
+        font-size: 1.9rem;
       }
       body {
         align-items: flex-start;
-        padding: 3rem 1.25rem;
+        padding: 2rem 1rem;
       }
     }
   </style>
@@ -128,19 +134,25 @@ sitemap: false
 <body>
   <div class="page">
 
-    <h1>Write Me a Birthday Letter</h1>
+    <h1>Write Me a Letter</h1>
 
-    <p class="intro">Hey — if you're here, I asked you personally. Thank you.</p>
+    <p class="intro">I'm turning 50 and I'd like to make a request. If you're here, you're someone whose perspective I trust.</p>
 
-    <p class="intro">For my birthday this year, I'd love a letter from you. Handwritten, typed, short, long, funny, serious. Whatever feels right.</p>
+    <p class="intro">
+      What I'm asking for is a letter, but what I'm really asking for is to be seen by you and to see
+      what you see in me.  
+    </p>
+
+    <p class="intro">Handwritten, typed, short, long, whatever form feels right.</p>
 
     <div class="section">
-      <h2>A few loose parameters</h2>
+      <h2>Some prompts if you need help getting started:</h2>
       <ul>
-        <li>Tell me something you've never told me</li>
-        <li>Or a memory of us you think about sometimes</li>
-        <li>Or what you hope for me in the year ahead</li>
-        <li>Or just say hi in a way that's really you</li>
+        <li>What in me has aged well?</li>
+        <li>What have you learned from our time together?</li>
+        <li>Tell me the story of someone in your life who inspired you as they aged.</li>
+        <li>A memory of us you think about sometimes.</li>
+        <li>Something you hope for me in the years ahead.</li>
       </ul>
     </div>
 
@@ -155,7 +167,7 @@ sitemap: false
       </ul>
     </div>
 
-    <p class="closing">No pressure on length or polish. I just want to hear from you.</p>
+    <p class="closing">You don't have to answer all the prompts. You don't have to answer any of them. I just want to hear from you in your own way.</p>
 
   </div>
 </body>
